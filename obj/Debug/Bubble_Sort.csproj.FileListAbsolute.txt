@@ -1,0 +1,7 @@
+C:\Users\yusuf\source\repos\Bubble_Sort\bin\Debug\Bubble_Sort.exe.config
+C:\Users\yusuf\source\repos\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\yusuf\source\repos\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\yusuf\source\repos\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\yusuf\source\repos\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
